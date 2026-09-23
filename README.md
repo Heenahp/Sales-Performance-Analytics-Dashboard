@@ -6,7 +6,7 @@ This project recreates the same sales dataset from my Excel Sales Dashboard proj
 The dashboard provides a clear view of key business metrics and helps understand sales and profit performance across products, categories, regions, and customer segments.
 
 ## Dataset
-Data used: [apna source likho — Kaggle/practice dataset/self-generated] — same sales dataset as used in the Excel Sales Dashboard project (Region, Category, Segment level sales and profit data).
+Data used: Synthetic dataset generated to simulate real-world sales patterns, inspired by business scenarios similar to my previous work experience. Created using AI-assisted data generation for portfolio and practice purposes — no confidential/proprietary company data used.
 
 ## Key Metrics
 - Total Sales
